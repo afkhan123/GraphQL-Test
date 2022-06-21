@@ -1,0 +1,28 @@
+{
+  "name": "GraphQL-Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afkhan123/GraphQL-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afkhan123/GraphQL-Test/issues"
+  },
+  "homepage": "https://github.com/afkhan123/GraphQL-Test#readme",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "graphql": "^16.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
